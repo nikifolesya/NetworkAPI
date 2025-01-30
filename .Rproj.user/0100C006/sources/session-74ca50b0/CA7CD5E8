@@ -1,0 +1,26 @@
+{
+    "id": "CA7CD5E8",
+    "path": "~/Desktop/visualAPI/network/plumber.R",
+    "project_path": "network/plumber.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1738131147544.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,2",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1738071115,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1738071115,
+    "read_only": false,
+    "read_only_alternatives": []
+}
